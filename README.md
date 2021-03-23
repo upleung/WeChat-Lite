@@ -1,14 +1,12 @@
 # WeChat-Lite  
-微信历史版本，PC和Android轻量级备份版 (WeChat-Lite）
+微信历史版本，Windows和Android轻量级备份版安装包，对老机型十分友好 (源文件系官网下载）
 
 # Windows版：  
-1.brotli：解压工具，用于将「system.new.dat.br」文件解压为「system.new.dat」  
-2.sdat2img：格式转换工具，用于将「system.new.dat」文件转换为ext4格式的「system.new.img」  
-3.SystemExtractor：解包工具，用于将「system.new.img」解包   
+WeChatSetup_V2.6.4.exe（仅36mb):https://zelink.lanzous.com/iQDPtn8wkpi  
+MD5: 77533048915226872cf754318db43d86
 
 # Android版：  
-本工具为一套组合使用工具，其中3个文件均转自GitHub上的大佬，组合使用实测可在Win10系统上解包Android 8、Android 9、Android 10的ROM固件（包含EMUI10、MIUI12、Flyme8等主流固件），其中：  
-1.brotli：来自[google / brotli](https://github.com/google/brotli)  
-2.sdat2img：来自[xpirt / sdat2img](https://github.com/xpirt/sdat2img)  
-3.SystemExtractor：来自XDA论坛;
+WeChat_v6.6.1.apk（仅57.3mb):https://zelink.lanzous.com/inysNn8wlva 
+MD5: f41f1d852cd0dd13dcdc1d807ca72d3a  
+
 
