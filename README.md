@@ -11,6 +11,6 @@ WeChat_v6.6.1.apk（仅57.3mb)
 链接:https://zelink.lanzous.com/inysNn8wlva  
 MD5: f41f1d852cd0dd13dcdc1d807ca72d3a  
 
-加⭐持续备份更新ing...
+⭐持续备份更新ing...
 
 
