@@ -23,6 +23,14 @@ WeChat_v7.0.22.apk（8.0未改版之前最好用的版本)
 
 MD5: 228573ce7f198d9053f03f47b470a2ca
 
+
+# Google Drive： 
+https://drive.google.com/drive/folders/1T3shxwhDQ1ewiO0askgP3m4ZKwBJJY7B?usp=sharing
+
+
 ⭐持续备份更新ing...
+
+
+备注：目前该版本无法使用，因为腾讯要求必须安装最新版，才允许登录，文件仅保留下载测试使用；
 
 
