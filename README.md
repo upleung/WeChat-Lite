@@ -38,4 +38,5 @@ MD5: 228573ce7f198d9053f03f47b470a2ca
 
 [![Star History Chart](https://api.star-history.com/svg?repos=upleung/WeChat-Lite&type=Date)](https://www.star-history.com/#upleung/WeChat-Lite&Date)
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=upleung/WeChat-Lite&type=Date&theme=dark#gh-dark-mode-only)](https://star-history.com/#upleung/WeChat-Lite&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=upleung/WeChat-Lite&type=Date#gh-light-mode-only)](https://star-history.com/#upleung/WeChat-Lite&Date)
